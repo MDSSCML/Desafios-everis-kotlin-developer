@@ -2,3 +2,17 @@
 
 
 # Desafios everis kotlin developer
+
+ ## Desafios Kotlin 
+ 
+ * [A corrida das tartarugas]() * 
+ * [Área do círculo]()
+ * [Bob conduíte]()
+ * [Conversão simples de base]()
+ * [Figurinhas]()
+ * [Números ímpares]()
+ * [O jogo matemático de paula]()
+ * [Primo rápido]()
+ * [Quadrado e ao cubo]()
+ * [Soma simples]()
+ * [Taxa imposto de renda]()
