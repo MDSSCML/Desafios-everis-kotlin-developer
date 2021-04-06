@@ -5,7 +5,7 @@
 
  ## Desafios Kotlin 
  
- * [A corrida das tartarugas]()* 
+ * [A corrida das tartarugas]*() 
  * [Área do círculo]()
  * [Bob conduíte]()
  * [Conversão simples de base]()
